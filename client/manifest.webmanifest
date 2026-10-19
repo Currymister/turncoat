@@ -1,0 +1,9 @@
+{
+  "name": "Turncoat",
+  "short_name": "Turncoat",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1D2C33",
+  "theme_color": "#1D2C33",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
